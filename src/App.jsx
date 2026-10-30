@@ -10,8 +10,8 @@ import Opportunities from './components/Opportunities.jsx'
 import About from './components/AboutUs.jsx'
 import Testimonials from './components/Testimonial.jsx';
 import Footer from './components/Footer.jsx';
-import Contact from './components/contact.jsx';
-import Language from './components/Language_service.jsx'
+import Contact from './components/Contact.jsx';
+import Language from './components/LanguageService.jsx'
 import Colaborator from './components/Creator_colborator.jsx'
 
 function App() {
