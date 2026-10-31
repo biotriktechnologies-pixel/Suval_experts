@@ -17,7 +17,7 @@
   position: sticky;
   top: 0;
   z-index: 1000;
-  background-color: rgb(255, 174, 0);
+  background-color: rgb(245, 139, 1);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid #f3f4f6;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
